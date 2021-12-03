@@ -21,19 +21,20 @@ This application is utilized to pratice flashcards in the terminal. Using a pres
 - Run `node index.js` to begin flashcards. 
    
 ## Screenshots  
-Users can access the flashcards in the terminal and go through each card.
+-Users can access the flashcards in the terminal and go through each card.
 ![start-flashcard](https://media.giphy.com/media/fKMsz9FXgaNTIHYpVt/giphy.gif)
-User can view percentage of correct answers. 
+
+-User can view percentage of correct answers. 
 ![end-of-round](https://user-images.githubusercontent.com/89872714/144540020-20eac490-9f88-4fd2-8c1b-7453d29a0a49.png)
 
 ## Links  
-View repository on github [here](https://github.com/Alynn022/flashcard_project_mod2)
-Checkout the Turing spec sheet [here](https://frontend.turing.edu/projects/flash-cards.html)
+-View repository on github [here](https://github.com/Alynn022/flashcard_project_mod2)
+-Checkout the Turing spec sheet [here](https://frontend.turing.edu/projects/flash-cards.html)
 
 ## Contributors  
 [Lynn Nguyen](https://github.com/Alynn022)  
    
 ## Technologies
-JavaScript
+-JavaScript
 
 
