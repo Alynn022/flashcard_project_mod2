@@ -1,4 +1,4 @@
-# Mod1FinalProject
+# Flashcard Project 
 ## Table of Contents
 - [Abstract](#abstract)
 - [Setup](#setup)
@@ -29,6 +29,7 @@ This application is utilized to pratice flashcards in the terminal. Using a pres
 
 ## Links  
 -View repository on github [here](https://github.com/Alynn022/flashcard_project_mod2)
+
 -Checkout the Turing spec sheet [here](https://frontend.turing.edu/projects/flash-cards.html)
 
 ## Contributors  
@@ -36,5 +37,6 @@ This application is utilized to pratice flashcards in the terminal. Using a pres
    
 ## Technologies
 -JavaScript
+-Eslint 
 
 
